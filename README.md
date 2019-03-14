@@ -1,11 +1,15 @@
-# udacity_drlnd_p3
-
 # Project Details
 
 
 # Getting Started
 
 ## Step 1: Clone the Repository
+
+To clone this git repository, put a following commandline.
+
+```
+$ git clone https://github.com/jhyun0919/udacity_drlnd_p3.git
+```
 
 ## Step 2: Download the Unity Environment
 
