@@ -1,5 +1,12 @@
+This project is one of the projects from [Udacity Deep Reinforcement Learning Nano-degree](https://github.com/udacity/deep-reinforcement-learning).
+
+Following is the process and results I have done.
+
+---
+
 # Project Details
 
+![](https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif)
 
 # Getting Started
 
