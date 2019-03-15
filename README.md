@@ -8,8 +8,6 @@ Following is the process and results I have done.
 
 ![](https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif)
 
-# Getting Started
-
 ## The environment
 
 For this project, we will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.  
@@ -28,6 +26,8 @@ The task is episodic, and in order to solve the environment, your agents must ge
 
 
 **The environment is considered solved, when the average (over 100 episodes) of those _scores_ is at least +0.5.**
+
+# Getting Started
 
 ## Step 1: Clone the Repository
 
