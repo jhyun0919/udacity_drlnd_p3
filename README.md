@@ -60,5 +60,5 @@ $ pip install -r requirements.txt
 
 # Solutions
 
-You can check out about the description of the implementation & results of the experiment on this project in [Tennis.ipynb]() & [Report.ipynb]().
+You can check out about the description of the implementation & results of the experiment on this project in [Tennis.ipynb](https://github.com/jhyun0919/udacity_drlnd_p3/blob/master/Tennis.ipynb) & [Report.ipynb](https://github.com/jhyun0919/udacity_drlnd_p3/blob/master/Report.ipynb).
 
